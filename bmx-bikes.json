@@ -1,0 +1,169 @@
+[
+  {
+    "ID": "WTP-1",
+    "BRAND": "WeThePeople",
+    "NAME": "REASON",
+    "GRAPHIC": "WeThePeople Reason",
+    "PRICE": "400",
+    "MSRP": "600",
+    "QTYONHAND": "5",
+    "QTYONBACKORDER": "10",
+    "DESCRIPTION": "A SERIOUS PIECE OF KIT, THE REASON IS DRAPED IN QUALITY FROM HEAD TO TOE. FEATURING A FULL 4130 CHROMOLY FRAME WITH A MODERN 76 DEGREE HEADTUBE AND SUPER SHORT 12.75” CHAINSTAY, THE REASON NOW COMES WITH SHORTER 160MM CRANKS AND A STEEPER 15MM OFFSET FORK MAKING IT TRULY RIDE LIKE THE SAME BIKES WETHEPEOPLE PRO’S FELIX PRANGENBERG AND DAN KRUK ARE RIDING RIGHT NOW. FEATURING A SALT PRO FREECOASTER HUB AND THE LATEST WETHEPEOPLE AFTERMARKET PRODUCTS, THIS INCREDIBLE STREET MACHINE IS A TRUE WEAPON."
+  },
+  {
+    "ID": "WTP-2",
+    "BRAND": "WeThePeople",
+    "NAME": "JUSTICE",
+    "GRAPHIC": "WeThePeople Justice",
+    "PRICE": "300",
+    "MSRP": "500",
+    "QTYONHAND": "3",
+    "QTYONBACKORDER": "5",
+    "DESCRIPTION": "BASED ON THE SAME BIKES THAT WETHEPEOPLE PRO FELIX PRANGENBERG RODE LAST SEASON, THE JUSTICE FEATURES REVISED GEOMETRY AND A NEVER BEFORE SEEN PARTS OVERHAUL FROM WETHEPEOPLE. OUR NEW ACTIVATE TIRE, PARAGON PLASTIC GUARD SPROCKET AND PERFECT GRIPS MAKE THIS NEW-SCHOOL URBAN MACHINE MORE STACKED THAN EVER BEFORE. PAIRED UP WITH A SHORTER 22MM OFFSET FORK AND A FULL ASSORTMENT OF PLASTIC HUB GUARDS, YOU’D BE FORGIVEN FOR THINKING THAT YOU’RE RIDING A FULL CUSTOM BUILD."
+  },
+  {
+    "ID": "WTP-3",
+    "BRAND": "WeThePeople",
+    "NAME": "CRYSIS",
+    "GRAPHIC": "WeThePeople Crysis",
+    "PRICE": "500",
+    "MSRP": "900",
+    "QTYONHAND": "6",
+    "QTYONBACKORDER": "1",
+    "DESCRIPTION": "BUILT UPON A FRAME WHICH MOST OTHER AFTERMARKET FRAMES WOULD BE EVEN ENVIOUS OF, THE CRYSIS IS WRAPPED IN A GENEROUS HELPING OF WETHEPEOPLE PARTS INCLUDING THE ALL-TERRAIN 2.35” OVERBITE TIRES, LOGIC SPROCKET AND NEW FOR 2021; THE LOGIC FRONT LOAD STEM. THE CRYSIS IS AVAILABLE IN 20.5” OR 21” TOPTUBE SIZES, BOTH ARE USING OUR INVEST CAST WISHBONE AND TALLER 127MM HEAD TUBE FOR A SUPER CLEAN AND REFINED LOOK."
+  },
+  {
+    "ID": "WTP-4",
+    "BRAND": "WeThePeople",
+    "NAME": "VERSUS",
+    "GRAPHIC": "WeThePeople Versus",
+    "PRICE": "200",
+    "MSRP": "500",
+    "QTYONHAND": "1",
+    "QTYONBACKORDER": "3",
+    "DESCRIPTION": "AN UNSTOPPABLE SKATEPARK MACHINE! THE VERSUS FEATURES GEOMETRY BORROWED FROM OUR MESSAGE AFTERMARKET LINE ALLOWING IT TO SHRED TRANSITIONS AND SKATEPARKS UNLIKE ANYTHING ELSE. WE ADDED A SEALED SALTPLUS GEO ROTOR SETUP WITH DUAL CABLES TO GIVE THE VERSUS PLENTY OF BRAKING POWER AND PERFORMANCE. CONTRA PEDALS, SUPERLIGHTWIGHT MIRAGE TIRES AND A UNIFY COMBO SEAT FROM ECLAT TO HELP ROUND OFF ONE OF THE MOST PRO BIKES IN OUR 2021 LINE UP."
+  },
+  {
+    "ID": "WTP-5",
+    "BRAND": "WeThePeople",
+    "NAME": "BATTLESHIP",
+    "GRAPHIC": "WeThePeople Battleship",
+    "PRICE": "700",
+    "MSRP": "1299.99",
+    "QTYONHAND": "4",
+    "QTYONBACKORDER": "10",
+    "DESCRIPTION": "BATTLESHIP IS A NAME SYNONYMOUS WITH NEW-SCHOOL STREET RIDING AND ULTIMATE STRENGTH AND DURABILITY. TAKING ONE OF THE MOST POPULAR TECHNICAL STREET FRAMES ON THE MARKET AND ADDING A FULL AFTERMARKET PRO PARTS PACKAGE, THE BATTLESHIP IS THE GREATEST STREET BIKE EVER MADE. NOW FEATURING THE BRAND NEW 15MM OFFSET BATTLESHIP FORK AND A FULL ECLAT/WETHEPEOPLE PARTS PACKAGE, THIS IS A BIKE WHICH ANY OF OUR TEAM COULD RIDE STRAIGHT OUT OF THE BOX WITH ZERO COMPROMISE. A FULL CUSTOM BIKE IN EVERY SENSE OF THE WORD, THE BATTLESHIP CARRIES A FULL LIFETIME GUARANTEE ON THE FRAME AND FORK GIVING YOU FULL CONFIDENCE THAT YOU ARE RIDING A BIKE DESIGNED TO RIDE AT THE HIGHEST LEVEL POSSIBLE. INCLUDES LIFETIME GUARANTEE ON THE FRAME & FORK."
+  },
+
+  {
+    "ID": "SUN-1",
+    "BRAND": "Sunday",
+    "NAME": "PRIMER",
+    "GRAPHIC": "Sunday Primer",
+    "PRICE": "500",
+    "MSRP": "699.99",
+    "QTYONHAND": "2",
+    "QTYONBACKORDER": "3",
+    "DESCRIPTION": "Built around a pro-level geometry in a range of top tube sizes, the Primer is spec’d with quality parts like Odyssey Springfield brakes and Path Pro tires. The 2021 Primer also includes a fully sealed rear cassette hub and proven parts like the Sunday Freeze Stem and an FSA Headset."
+  },
+  {
+    "ID": "SUN-2",
+    "BRAND": "Sunday",
+    "NAME": "SCOUT",
+    "GRAPHIC": "Sunday Scout",
+    "PRICE": "700",
+    "MSRP": "990",
+    "QTYONHAND": "4",
+    "QTYONBACKORDER": "1",
+    "DESCRIPTION": "The Scout line is built with more aftermarket parts than ever before, including the Odyssey Twisted Pro pedal and Path Pro tire. Bike shops and riders will appreciate the fully sealed front and rear hubs, and awesome details like Odyssey signature grips and the Springfield Brake system."
+  },
+  {
+    "ID": "SUN-3",
+    "BRAND": "Sunday",
+    "NAME": "EX",
+    "GRAPHIC": "Sunday EX",
+    "PRICE": "800",
+    "MSRP": "1100.15",
+    "QTYONHAND": "2",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "These bikes pushes the envelope with a tough, pro-level, Odyssey/Sunday parts package and frame design upgrades like the EX’s removable braking hardware mean business, even when your approach to riding is all about having fun."
+  },
+  {
+    "ID": "SUN-4",
+    "BRAND": "Sunday",
+    "NAME": "FORECASTER",
+    "GRAPHIC": "Sunday Forecaster",
+    "PRICE": "1000",
+    "MSRP": "1599.99",
+    "QTYONHAND": "1",
+    "QTYONBACKORDER": "9",
+    "DESCRIPTION": "The Forecaster is a model that rides, feels and looks like a pro-level bike. You’ll find Signature spec’d design cues like the Odyssey Grips, combined with incredible parts like a Odyssey Clutch v2 Freecoaster hub, Odyssey Twisted Pro pedals, and Path Pro tires."
+  },
+  {
+    "ID": "SUN-5",
+    "BRAND": "Sunday",
+    "NAME": "STREET SWEEPER",
+    "GRAPHIC": "Sunday Street Sweeper",
+    "PRICE": "600",
+    "MSRP": "709.99",
+    "QTYONHAND": "6",
+    "QTYONBACKORDER": "4",
+    "DESCRIPTION": "Built around Jake Seeley’s all-new chromoly aftermarket signature frame, it uses a 75.25° head tube angle, a very short chainstay and a higher bottom bracket to match perfectly with Jake’s technical riding style. With its 4-piece bars, 160mm cranks, sealed Odyssey Clutch freecoaster and Sunday Street Sweeper tires, this is truly a pro-level bike."
+  },
+
+  {
+    "ID": "SBRSA-1",
+    "BRAND": "Subrosa",
+    "NAME": "NOVUS",
+    "GRAPHIC": "Subrosa Novus",
+    "PRICE": "900",
+    "MSRP": "1410.65",
+    "QTYONHAND": "1",
+    "QTYONBACKORDER": "2",
+    "DESCRIPTION": "An amazing riding we knew we wanted to feature his bike as a complete bike. Featuring a 100% chromoly butted frame, fork, and bars along with aftermarket products from The Shadow Conspiracy."
+  },
+  {
+    "ID": "SBRSA-2",
+    "BRAND": "Subrosa",
+    "NAME": "SALVADOR",
+    "GRAPHIC": "Subrosa Salvador",
+    "PRICE": "200",
+    "MSRP": "407.85",
+    "QTYONHAND": "3",
+    "QTYONBACKORDER": "1",
+    "DESCRIPTION": "The Salvador line has all types of options to fit exactly what your riding needs are. Choose from the standard Salvador, Salvador XL, or the Salvador FC, and enjoy every session without worrying if your bike will hold up. Each Salvador is built to battle with updated pro level geometry, and even more aftermarket parts from The Shadow Conspiracy and Rant."
+  },
+  {
+    "ID": "SBRSA-3",
+    "BRAND": "Subrosa",
+    "NAME": "TIRO",
+    "GRAPHIC": "Subrosa Tiro",
+    "PRICE": "200",
+    "MSRP": "394.99",
+    "QTYONHAND": "0",
+    "QTYONBACKORDER": "6",
+    "DESCRIPTION": "Our Tiro line has grown bigger and better than ever with even more size and color options! Investing in a bike is a big deal, so we want to make sure you get a bike that fits your needs perfectly. The Tiro, Tiro L, Tiro XL, and Tiro XXL, all feature the same great parts package, but each model has a different length Top Tube. The keys to a great riding experience are a bike that fits you and is durable to handle the abuse that BMX riding can dish and the Tiro line does both!"
+  },
+  {
+    "ID": "SBRSA-4",
+    "BRAND": "Subrosa",
+    "NAME": "SONO",
+    "GRAPHIC": "Subrosa Sono",
+    "PRICE": "120",
+    "MSRP": "345.99",
+    "QTYONHAND": "0",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "The Sono and Sono XL is another great bike in our entry level range but, this bike gives you more size options and a few upgrades from the Altus 20. Features include Pro level geometry and aftermarket parts from The Shadow Conspiracy and Rant."
+  },
+  {
+    "ID": "SBRSA-5",
+    "BRAND": "Subrosa",
+    "NAME": "MALUM",
+    "GRAPHIC": "Subrosa Malum",
+    "PRICE": "358.40",
+    "MSRP": "589.99",
+    "QTYONHAND": "2",
+    "QTYONBACKORDER": "4",
+    "DESCRIPTION": "The Subrosa Malum is one of the best overall bikes in our complete bike range. Featuring a 100%chromoly frame, fork, and bars. We&rsquo;ve updated the frame spec and added even more aftermarket products from The Shadow Conspiracy and Rant than ever before."
+  }
+]
